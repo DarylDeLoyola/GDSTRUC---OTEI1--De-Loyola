@@ -10,7 +10,7 @@ public class Main {
         nums[6] = 20;
         nums[7] = -8;
         nums[8] = 173;
-        nums[9] = 651;
+        nums[9] = 65;
 
         System.out.println("Before sorting...");
         printArray(nums);
